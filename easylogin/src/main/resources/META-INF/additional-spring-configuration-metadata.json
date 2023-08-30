@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.mybatis.configurarion",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mybatis.configurarion'"
+  },
+  {
+    "name": "spring.mybatis.map-underscore-to-camel-case",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mybatis.map-underscore-to-camel-case'"
+  },
+  {
+    "name": "spring.mybatis.configuration",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mybatis.configuration'"
+  }
+]}
